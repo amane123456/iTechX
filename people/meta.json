@@ -649,6 +649,12 @@
         ],
         "teach-courses": [
             [
+                "Spring",
+                "2025",
+                "CS243",
+                "Introduction to Algorithmic Game Theory"
+            ],
+            [
                 "Fall",
                 "2024",
                 "CS101",
